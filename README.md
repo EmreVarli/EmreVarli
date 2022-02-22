@@ -61,10 +61,10 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=emrevarli" alt="visitor counter" width="20%"/></p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=cetinogut&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=emrevarli&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrevarli&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrevarli&count_private=true&show_icons=true&theme=ayu-mirage&layout=compact" alt="languages" width="50%"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=cetinogut&theme=ayu-mirage" alt="wakatime-stats" width="50%"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=emrevarli&theme=ayu-mirage" alt="wakatime-stats" width="50%"></p>
 
 ---
 
